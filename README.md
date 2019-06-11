@@ -1,3 +1,8 @@
+If you make changes to extend these functions, please make a pull request so that we can all benefit. If I don't respond, feel free to fork this yourself.
+
+
+Original README.md from snagler/meraki_functions below
+
 These are a set of functions to interact with the Meraki cloud via the REST API.
 
 You will need to generate an API key on the Meraki Dashboard.
